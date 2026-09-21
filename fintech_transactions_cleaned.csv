@@ -1,0 +1,1001 @@
+Transaction_ID,Customer_ID,Order_Date,Product_Category,Transaction_Amount,Status,Region
+TXN_1000,CUST_151,2026-01-01,Peer Transfer,300.0,Completed,LATAM
+TXN_1001,CUST_192,2026-01-01,Micro Loan,300.0,Failed,Europe
+TXN_1002,CUST_114,2026-01-01,Wealth Management,300.0,Completed,Europe
+TXN_1003,CUST_171,2026-01-01,Wealth Management,300.0,Completed,LATAM
+TXN_1004,CUST_160,2026-01-01,Crypto Trade,50.0,Completed,LATAM
+TXN_1005,CUST_120,2026-01-01,Wealth Management,1200.0,Completed,Europe
+TXN_1006,CUST_182,2026-01-01,Micro Loan,1200.0,Completed,LATAM
+TXN_1007,CUST_186,2026-01-01,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1008,CUST_174,2026-01-01,Crypto Trade,1200.0,Completed,North America
+TXN_1009,CUST_174,2026-01-01,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1010,CUST_187,2026-01-01,Peer Transfer,150.0,Completed,LATAM
+TXN_1011,CUST_199,2026-01-01,Wealth Management,300.0,Failed,Europe
+TXN_1012,CUST_123,2026-01-01,Peer Transfer,50.0,Completed,Europe
+TXN_1013,CUST_102,2026-01-01,Wealth Management,1200.0,Refunded,Asia-Pacific
+TXN_1014,CUST_121,2026-01-01,Peer Transfer,1200.0,Completed,Europe
+TXN_1015,CUST_152,2026-01-01,Micro Loan,150.0,Completed,LATAM
+TXN_1016,CUST_101,2026-01-01,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1017,CUST_187,2026-01-01,Micro Loan,50.0,Completed,Europe
+TXN_1018,CUST_129,2026-01-01,Crypto Trade,300.0,Completed,North America
+TXN_1019,CUST_137,2026-01-01,Peer Transfer,5000.0,Completed,North America
+TXN_1020,CUST_101,2026-01-01,Crypto Trade,300.0,Completed,LATAM
+TXN_1021,CUST_163,2026-01-01,Crypto Trade,50.0,Failed,Europe
+TXN_1022,CUST_159,2026-01-01,Crypto Trade,300.0,Completed,LATAM
+TXN_1023,CUST_120,2026-01-01,Crypto Trade,150.0,Failed,Asia-Pacific
+TXN_1024,CUST_132,2026-01-02,Peer Transfer,300.0,Completed,North America
+TXN_1025,CUST_175,2026-01-02,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1026,CUST_157,2026-01-02,Peer Transfer,300.0,Completed,Europe
+TXN_1027,CUST_121,2026-01-02,Peer Transfer,150.0,Completed,LATAM
+TXN_1028,CUST_188,2026-01-02,Micro Loan,5000.0,Completed,LATAM
+TXN_1029,CUST_148,2026-01-02,Wealth Management,150.0,Completed,LATAM
+TXN_1030,CUST_190,2026-01-02,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1031,CUST_158,2026-01-02,Peer Transfer,,Completed,North America
+TXN_1032,CUST_141,2026-01-02,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1033,CUST_191,2026-01-02,Peer Transfer,,Refunded,Asia-Pacific
+TXN_1034,CUST_159,2026-01-02,Peer Transfer,300.0,Failed,Europe
+TXN_1035,CUST_179,2026-01-02,Peer Transfer,50.0,Completed,Europe
+TXN_1036,CUST_114,2026-01-02,Micro Loan,150.0,Completed,Europe
+TXN_1037,CUST_161,2026-01-02,Wealth Management,300.0,Completed,North America
+TXN_1038,CUST_161,2026-01-02,Micro Loan,50.0,Completed,North America
+TXN_1039,CUST_146,2026-01-02,Crypto Trade,150.0,Refunded,Europe
+TXN_1040,CUST_161,2026-01-02,Micro Loan,150.0,Completed,Europe
+TXN_1041,CUST_150,2026-01-02,Micro Loan,300.0,Completed,North America
+TXN_1042,CUST_154,2026-01-02,Micro Loan,50.0,Completed,LATAM
+TXN_1043,CUST_163,2026-01-02,Micro Loan,1200.0,Completed,North America
+TXN_1044,CUST_102,2026-01-02,Wealth Management,5000.0,Completed,North America
+TXN_1045,CUST_150,2026-01-02,Crypto Trade,5000.0,Failed,North America
+TXN_1046,CUST_106,2026-01-02,Wealth Management,300.0,Completed,Europe
+TXN_1047,CUST_120,2026-01-02,Wealth Management,50.0,Completed,LATAM
+TXN_1048,CUST_172,2026-01-03,Micro Loan,300.0,Refunded,North America
+TXN_1049,CUST_138,2026-01-03,Peer Transfer,50.0,Completed,Europe
+TXN_1050,CUST_117,2026-01-03,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1051,CUST_103,2026-01-03,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1052,CUST_188,2026-01-03,Wealth Management,150.0,Completed,North America
+TXN_1053,CUST_159,2026-01-03,Micro Loan,300.0,Refunded,Asia-Pacific
+TXN_1054,CUST_113,2026-01-03,Wealth Management,300.0,Completed,LATAM
+TXN_1055,CUST_108,2026-01-03,Micro Loan,150.0,Failed,Asia-Pacific
+TXN_1056,CUST_189,2026-01-03,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1057,CUST_152,2026-01-03,Peer Transfer,5000.0,Refunded,LATAM
+TXN_1058,CUST_101,2026-01-03,Crypto Trade,150.0,Completed,North America
+TXN_1059,CUST_183,2026-01-03,Peer Transfer,150.0,Failed,North America
+TXN_1060,CUST_191,2026-01-03,Wealth Management,50.0,Completed,LATAM
+TXN_1061,CUST_159,2026-01-03,Peer Transfer,300.0,Refunded,LATAM
+TXN_1062,CUST_170,2026-01-03,Micro Loan,300.0,Completed,LATAM
+TXN_1063,CUST_143,2026-01-03,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1064,CUST_107,2026-01-03,Crypto Trade,50.0,Failed,LATAM
+TXN_1065,CUST_146,2026-01-03,Peer Transfer,300.0,Completed,Europe
+TXN_1066,CUST_134,2026-01-03,Micro Loan,300.0,Failed,Asia-Pacific
+TXN_1067,CUST_177,2026-01-03,Micro Loan,50.0,Completed,North America
+TXN_1068,CUST_180,2026-01-03,Wealth Management,5000.0,Completed,North America
+TXN_1069,CUST_135,2026-01-03,Peer Transfer,50.0,Completed,North America
+TXN_1070,CUST_149,2026-01-03,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1071,CUST_103,2026-01-03,Crypto Trade,,Completed,Europe
+TXN_1072,CUST_101,2026-01-04,Wealth Management,150.0,Completed,LATAM
+TXN_1073,CUST_105,2026-01-04,Crypto Trade,300.0,Completed,LATAM
+TXN_1074,CUST_153,2026-01-04,Peer Transfer,150.0,Completed,North America
+TXN_1075,CUST_103,2026-01-04,Peer Transfer,50.0,Completed,North America
+TXN_1076,CUST_153,2026-01-04,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1077,CUST_192,2026-01-04,Wealth Management,150.0,Completed,Europe
+TXN_1078,CUST_162,2026-01-04,Micro Loan,1200.0,Completed,LATAM
+TXN_1079,CUST_117,2026-01-04,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1080,CUST_189,2026-01-04,Crypto Trade,50.0,Refunded,LATAM
+TXN_1081,CUST_143,2026-01-04,Wealth Management,50.0,Failed,North America
+TXN_1082,CUST_133,2026-01-04,Crypto Trade,300.0,Completed,LATAM
+TXN_1083,CUST_173,2026-01-04,Wealth Management,150.0,Completed,Europe
+TXN_1084,CUST_161,2026-01-04,Micro Loan,1200.0,Failed,Europe
+TXN_1085,CUST_199,2026-01-04,Crypto Trade,150.0,Completed,North America
+TXN_1086,CUST_113,2026-01-04,Peer Transfer,5000.0,Completed,Europe
+TXN_1087,CUST_194,2026-01-04,Peer Transfer,50.0,Completed,Europe
+TXN_1088,CUST_147,2026-01-04,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1089,CUST_114,2026-01-04,Peer Transfer,300.0,Completed,LATAM
+TXN_1090,CUST_171,2026-01-04,Crypto Trade,300.0,Completed,North America
+TXN_1091,CUST_177,2026-01-04,Peer Transfer,1200.0,Refunded,North America
+TXN_1092,CUST_186,2026-01-04,Micro Loan,300.0,Failed,North America
+TXN_1093,CUST_161,2026-01-04,Micro Loan,300.0,Completed,North America
+TXN_1094,CUST_139,2026-01-04,Wealth Management,50.0,Completed,North America
+TXN_1095,CUST_184,2026-01-04,Crypto Trade,50.0,Failed,Europe
+TXN_1096,CUST_179,2026-01-05,Micro Loan,,Completed,Asia-Pacific
+TXN_1097,CUST_181,2026-01-05,Micro Loan,300.0,Completed,North America
+TXN_1098,CUST_152,2026-01-05,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1099,CUST_123,2026-01-05,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1100,CUST_125,2026-01-05,Peer Transfer,50.0,Completed,Europe
+TXN_1101,CUST_188,2026-01-05,Wealth Management,50.0,Failed,North America
+TXN_1102,CUST_159,2026-01-05,Peer Transfer,300.0,Failed,Europe
+TXN_1103,CUST_140,2026-01-05,Crypto Trade,150.0,Completed,North America
+TXN_1104,CUST_128,2026-01-05,Micro Loan,50.0,Completed,Europe
+TXN_1105,CUST_114,2026-01-05,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1106,CUST_144,2026-01-05,Wealth Management,50.0,Completed,North America
+TXN_1107,CUST_164,2026-01-05,Peer Transfer,150.0,Completed,LATAM
+TXN_1108,CUST_188,2026-01-05,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1109,CUST_170,2026-01-05,Wealth Management,300.0,Completed,LATAM
+TXN_1110,CUST_108,2026-01-05,Peer Transfer,150.0,Failed,Asia-Pacific
+TXN_1111,CUST_187,2026-01-05,Wealth Management,150.0,Completed,Europe
+TXN_1112,CUST_100,2026-01-05,Crypto Trade,50.0,Completed,North America
+TXN_1113,CUST_107,2026-01-05,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1114,CUST_187,2026-01-05,Crypto Trade,150.0,Completed,Europe
+TXN_1115,CUST_162,2026-01-05,Crypto Trade,150.0,Completed,North America
+TXN_1116,CUST_110,2026-01-05,Crypto Trade,300.0,Completed,North America
+TXN_1117,CUST_180,2026-01-05,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1118,CUST_107,2026-01-05,Micro Loan,300.0,Completed,North America
+TXN_1119,CUST_134,2026-01-05,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1120,CUST_134,2026-01-06,Wealth Management,300.0,Completed,North America
+TXN_1121,CUST_132,2026-01-06,Peer Transfer,50.0,Completed,LATAM
+TXN_1122,CUST_104,2026-01-06,Micro Loan,150.0,Refunded,Europe
+TXN_1123,CUST_140,2026-01-06,Micro Loan,50.0,Completed,LATAM
+TXN_1124,CUST_127,2026-01-06,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1125,CUST_106,2026-01-06,Micro Loan,5000.0,Completed,LATAM
+TXN_1126,CUST_172,2026-01-06,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1127,CUST_171,2026-01-06,Crypto Trade,150.0,Completed,North America
+TXN_1128,CUST_111,2026-01-06,Peer Transfer,300.0,Completed,North America
+TXN_1129,CUST_133,2026-01-06,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1130,CUST_132,2026-01-06,Wealth Management,150.0,Completed,LATAM
+TXN_1131,CUST_147,2026-01-06,Peer Transfer,50.0,Completed,North America
+TXN_1132,CUST_122,2026-01-06,Peer Transfer,150.0,Completed,Europe
+TXN_1133,CUST_161,2026-01-06,Crypto Trade,150.0,Completed,North America
+TXN_1134,CUST_187,2026-01-06,Wealth Management,50.0,Refunded,Europe
+TXN_1135,CUST_136,2026-01-06,Micro Loan,150.0,Completed,LATAM
+TXN_1136,CUST_198,2026-01-06,Crypto Trade,50.0,Completed,Europe
+TXN_1137,CUST_143,2026-01-06,Peer Transfer,50.0,Completed,Europe
+TXN_1138,CUST_185,2026-01-06,Wealth Management,150.0,Completed,Europe
+TXN_1139,CUST_190,2026-01-06,Micro Loan,50.0,Completed,Europe
+TXN_1140,CUST_134,2026-01-06,Micro Loan,150.0,Completed,North America
+TXN_1141,CUST_164,2026-01-06,Crypto Trade,300.0,Completed,Europe
+TXN_1142,CUST_198,2026-01-06,Wealth Management,1200.0,Completed,North America
+TXN_1143,CUST_146,2026-01-06,Wealth Management,50.0,Completed,Europe
+TXN_1144,CUST_177,2026-01-07,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1145,CUST_102,2026-01-07,Wealth Management,50.0,Completed,LATAM
+TXN_1146,CUST_100,2026-01-07,Wealth Management,300.0,Completed,Europe
+TXN_1147,CUST_104,2026-01-07,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1148,CUST_189,2026-01-07,Wealth Management,50.0,Failed,Europe
+TXN_1149,CUST_113,2026-01-07,Micro Loan,,Completed,Europe
+TXN_1150,CUST_126,2026-01-07,Crypto Trade,50.0,Completed,Europe
+TXN_1151,CUST_108,2026-01-07,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1152,CUST_178,2026-01-07,Peer Transfer,300.0,Refunded,LATAM
+TXN_1153,CUST_114,2026-01-07,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1154,CUST_189,2026-01-07,Peer Transfer,300.0,Completed,LATAM
+TXN_1155,CUST_141,2026-01-07,Micro Loan,1200.0,Completed,Europe
+TXN_1156,CUST_176,2026-01-07,Crypto Trade,150.0,Completed,North America
+TXN_1157,CUST_150,2026-01-07,Crypto Trade,1200.0,Completed,Europe
+TXN_1158,CUST_162,2026-01-07,Crypto Trade,50.0,Completed,LATAM
+TXN_1159,CUST_195,2026-01-07,Micro Loan,1200.0,Failed,Asia-Pacific
+TXN_1160,CUST_151,2026-01-07,Micro Loan,150.0,Completed,Europe
+TXN_1161,CUST_195,2026-01-07,Peer Transfer,1200.0,Completed,Asia-Pacific
+TXN_1162,CUST_103,2026-01-07,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1163,CUST_193,2026-01-07,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1164,CUST_122,2026-01-07,Wealth Management,150.0,Completed,Europe
+TXN_1165,CUST_114,2026-01-07,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1166,CUST_142,2026-01-07,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1167,CUST_128,2026-01-07,Peer Transfer,50.0,Completed,Europe
+TXN_1168,CUST_135,2026-01-08,Crypto Trade,50.0,Refunded,Asia-Pacific
+TXN_1169,CUST_112,2026-01-08,Peer Transfer,50.0,Completed,Europe
+TXN_1170,CUST_131,2026-01-08,Wealth Management,1200.0,Completed,LATAM
+TXN_1171,CUST_170,2026-01-08,Wealth Management,50.0,Completed,LATAM
+TXN_1172,CUST_158,2026-01-08,Micro Loan,5000.0,Failed,LATAM
+TXN_1173,CUST_185,2026-01-08,Wealth Management,150.0,Refunded,Asia-Pacific
+TXN_1174,CUST_127,2026-01-08,Peer Transfer,50.0,Failed,North America
+TXN_1175,CUST_165,2026-01-08,Wealth Management,300.0,Completed,North America
+TXN_1176,CUST_141,2026-01-08,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1177,CUST_144,2026-01-08,Crypto Trade,150.0,Completed,North America
+TXN_1178,CUST_161,2026-01-08,Peer Transfer,150.0,Completed,Europe
+TXN_1179,CUST_156,2026-01-08,Crypto Trade,300.0,Completed,North America
+TXN_1180,CUST_105,2026-01-08,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1181,CUST_127,2026-01-08,Micro Loan,5000.0,Completed,Asia-Pacific
+TXN_1182,CUST_127,2026-01-08,Micro Loan,5000.0,Completed,Europe
+TXN_1183,CUST_143,2026-01-08,Crypto Trade,300.0,Completed,LATAM
+TXN_1184,CUST_183,2026-01-08,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1185,CUST_129,2026-01-08,Crypto Trade,300.0,Completed,Europe
+TXN_1186,CUST_161,2026-01-08,Crypto Trade,50.0,Completed,North America
+TXN_1187,CUST_174,2026-01-08,Micro Loan,50.0,Completed,North America
+TXN_1188,CUST_191,2026-01-08,Micro Loan,50.0,Completed,Europe
+TXN_1189,CUST_188,2026-01-08,Peer Transfer,150.0,Completed,Europe
+TXN_1190,CUST_161,2026-01-08,Peer Transfer,1200.0,Completed,Asia-Pacific
+TXN_1191,CUST_196,2026-01-08,Crypto Trade,300.0,Completed,North America
+TXN_1192,CUST_100,2026-01-09,Wealth Management,300.0,Refunded,Europe
+TXN_1193,CUST_126,2026-01-09,Wealth Management,150.0,Completed,North America
+TXN_1194,CUST_161,2026-01-09,Micro Loan,150.0,Completed,Europe
+TXN_1195,CUST_176,2026-01-09,Micro Loan,150.0,Completed,North America
+TXN_1196,CUST_102,2026-01-09,Micro Loan,5000.0,Completed,LATAM
+TXN_1197,CUST_169,2026-01-09,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1198,CUST_171,2026-01-09,Peer Transfer,1200.0,Completed,North America
+TXN_1199,CUST_126,2026-01-09,Micro Loan,150.0,Refunded,LATAM
+TXN_1200,CUST_108,2026-01-09,Micro Loan,150.0,Completed,North America
+TXN_1201,CUST_161,2026-01-09,Micro Loan,300.0,Failed,North America
+TXN_1202,CUST_136,2026-01-09,Wealth Management,150.0,Completed,LATAM
+TXN_1203,CUST_196,2026-01-09,Peer Transfer,1200.0,Completed,North America
+TXN_1204,CUST_150,2026-01-09,Wealth Management,,Refunded,North America
+TXN_1205,CUST_143,2026-01-09,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1206,CUST_123,2026-01-09,Micro Loan,50.0,Completed,LATAM
+TXN_1207,CUST_178,2026-01-09,Micro Loan,150.0,Completed,LATAM
+TXN_1208,CUST_158,2026-01-09,Crypto Trade,,Completed,Europe
+TXN_1209,CUST_131,2026-01-09,Crypto Trade,50.0,Completed,North America
+TXN_1210,CUST_195,2026-01-09,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1211,CUST_187,2026-01-09,Peer Transfer,300.0,Completed,North America
+TXN_1212,CUST_151,2026-01-09,Micro Loan,300.0,Completed,North America
+TXN_1213,CUST_161,2026-01-09,Micro Loan,50.0,Completed,Europe
+TXN_1214,CUST_157,2026-01-09,Wealth Management,300.0,Completed,North America
+TXN_1215,CUST_151,2026-01-09,Crypto Trade,,Completed,Asia-Pacific
+TXN_1216,CUST_111,2026-01-10,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1217,CUST_138,2026-01-10,Crypto Trade,50.0,Completed,Europe
+TXN_1218,CUST_101,2026-01-10,Crypto Trade,5000.0,Completed,North America
+TXN_1219,CUST_102,2026-01-10,Crypto Trade,50.0,Failed,Asia-Pacific
+TXN_1220,CUST_155,2026-01-10,Crypto Trade,1200.0,Completed,North America
+TXN_1221,CUST_180,2026-01-10,Micro Loan,150.0,Completed,North America
+TXN_1222,CUST_158,2026-01-10,Micro Loan,50.0,Completed,North America
+TXN_1223,CUST_101,2026-01-10,Crypto Trade,1200.0,Completed,Europe
+TXN_1224,CUST_101,2026-01-10,Peer Transfer,150.0,Completed,North America
+TXN_1225,CUST_191,2026-01-10,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1226,CUST_153,2026-01-10,Peer Transfer,150.0,Completed,North America
+TXN_1227,CUST_186,2026-01-10,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1228,CUST_195,2026-01-10,Peer Transfer,50.0,Failed,North America
+TXN_1229,CUST_196,2026-01-10,Crypto Trade,150.0,Failed,Asia-Pacific
+TXN_1230,CUST_100,2026-01-10,Micro Loan,5000.0,Refunded,Asia-Pacific
+TXN_1231,CUST_118,2026-01-10,Peer Transfer,50.0,Completed,North America
+TXN_1232,CUST_101,2026-01-10,Crypto Trade,300.0,Completed,North America
+TXN_1233,CUST_152,2026-01-10,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1234,CUST_143,2026-01-10,Peer Transfer,300.0,Completed,LATAM
+TXN_1235,CUST_189,2026-01-10,Crypto Trade,50.0,Completed,Europe
+TXN_1236,CUST_131,2026-01-10,Micro Loan,5000.0,Completed,LATAM
+TXN_1237,CUST_169,2026-01-10,Micro Loan,150.0,Completed,LATAM
+TXN_1238,CUST_131,2026-01-10,Wealth Management,50.0,Completed,North America
+TXN_1239,CUST_167,2026-01-10,Crypto Trade,50.0,Completed,Europe
+TXN_1240,CUST_154,2026-01-11,Wealth Management,50.0,Completed,LATAM
+TXN_1241,CUST_174,2026-01-11,Wealth Management,150.0,Completed,North America
+TXN_1242,CUST_155,2026-01-11,Wealth Management,150.0,Failed,LATAM
+TXN_1243,CUST_116,2026-01-11,Micro Loan,1200.0,Completed,LATAM
+TXN_1244,CUST_137,2026-01-11,Crypto Trade,150.0,Completed,North America
+TXN_1245,CUST_123,2026-01-11,Wealth Management,50.0,Completed,North America
+TXN_1246,CUST_168,2026-01-11,Crypto Trade,300.0,Completed,North America
+TXN_1247,CUST_197,2026-01-11,Crypto Trade,300.0,Completed,Europe
+TXN_1248,CUST_169,2026-01-11,Micro Loan,50.0,Completed,LATAM
+TXN_1249,CUST_185,2026-01-11,Wealth Management,50.0,Completed,North America
+TXN_1250,CUST_110,2026-01-11,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1251,CUST_115,2026-01-11,Crypto Trade,300.0,Completed,LATAM
+TXN_1252,CUST_196,2026-01-11,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1253,CUST_172,2026-01-11,Micro Loan,150.0,Completed,Europe
+TXN_1254,CUST_158,2026-01-11,Micro Loan,1200.0,Completed,North America
+TXN_1255,CUST_169,2026-01-11,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1256,CUST_179,2026-01-11,Micro Loan,150.0,Refunded,Europe
+TXN_1257,CUST_192,2026-01-11,Wealth Management,1200.0,Completed,North America
+TXN_1258,CUST_102,2026-01-11,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1259,CUST_119,2026-01-11,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1260,CUST_158,2026-01-11,Micro Loan,50.0,Completed,Europe
+TXN_1261,CUST_135,2026-01-11,Micro Loan,50.0,Completed,North America
+TXN_1262,CUST_118,2026-01-11,Crypto Trade,150.0,Completed,North America
+TXN_1263,CUST_189,2026-01-11,Wealth Management,,Refunded,Asia-Pacific
+TXN_1264,CUST_166,2026-01-12,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1265,CUST_118,2026-01-12,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1266,CUST_119,2026-01-12,Peer Transfer,150.0,Completed,North America
+TXN_1267,CUST_195,2026-01-12,Wealth Management,,Completed,Europe
+TXN_1268,CUST_170,2026-01-12,Peer Transfer,150.0,Completed,Europe
+TXN_1269,CUST_151,2026-01-12,Peer Transfer,150.0,Completed,North America
+TXN_1270,CUST_132,2026-01-12,Wealth Management,50.0,Completed,LATAM
+TXN_1271,CUST_139,2026-01-12,Micro Loan,50.0,Completed,Europe
+TXN_1272,CUST_138,2026-01-12,Micro Loan,5000.0,Completed,Asia-Pacific
+TXN_1273,CUST_181,2026-01-12,Peer Transfer,5000.0,Refunded,LATAM
+TXN_1274,CUST_100,2026-01-12,Peer Transfer,50.0,Completed,LATAM
+TXN_1275,CUST_110,2026-01-12,Micro Loan,5000.0,Refunded,Europe
+TXN_1276,CUST_191,2026-01-12,Wealth Management,300.0,Completed,LATAM
+TXN_1277,CUST_156,2026-01-12,Peer Transfer,1200.0,Failed,LATAM
+TXN_1278,CUST_188,2026-01-12,Crypto Trade,150.0,Completed,Europe
+TXN_1279,CUST_149,2026-01-12,Wealth Management,150.0,Failed,Europe
+TXN_1280,CUST_122,2026-01-12,Peer Transfer,150.0,Refunded,LATAM
+TXN_1281,CUST_130,2026-01-12,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1282,CUST_193,2026-01-12,Crypto Trade,50.0,Refunded,North America
+TXN_1283,CUST_141,2026-01-12,Crypto Trade,50.0,Completed,LATAM
+TXN_1284,CUST_198,2026-01-12,Micro Loan,150.0,Completed,LATAM
+TXN_1285,CUST_106,2026-01-12,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1286,CUST_115,2026-01-12,Wealth Management,50.0,Completed,LATAM
+TXN_1287,CUST_189,2026-01-12,Micro Loan,300.0,Completed,LATAM
+TXN_1288,CUST_159,2026-01-13,Wealth Management,5000.0,Completed,North America
+TXN_1289,CUST_101,2026-01-13,Wealth Management,50.0,Completed,North America
+TXN_1290,CUST_100,2026-01-13,Wealth Management,300.0,Completed,North America
+TXN_1291,CUST_147,2026-01-13,Wealth Management,150.0,Failed,Europe
+TXN_1292,CUST_111,2026-01-13,Wealth Management,1200.0,Completed,Europe
+TXN_1293,CUST_168,2026-01-13,Crypto Trade,50.0,Completed,North America
+TXN_1294,CUST_136,2026-01-13,Wealth Management,300.0,Completed,North America
+TXN_1295,CUST_131,2026-01-13,Crypto Trade,1200.0,Completed,Europe
+TXN_1296,CUST_108,2026-01-13,Wealth Management,,Completed,Asia-Pacific
+TXN_1297,CUST_198,2026-01-13,Micro Loan,300.0,Completed,LATAM
+TXN_1298,CUST_118,2026-01-13,Peer Transfer,150.0,Completed,LATAM
+TXN_1299,CUST_147,2026-01-13,Crypto Trade,300.0,Refunded,North America
+TXN_1300,CUST_179,2026-01-13,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1301,CUST_102,2026-01-13,Micro Loan,150.0,Completed,Europe
+TXN_1302,CUST_119,2026-01-13,Peer Transfer,50.0,Completed,North America
+TXN_1303,CUST_123,2026-01-13,Crypto Trade,,Completed,Asia-Pacific
+TXN_1304,CUST_153,2026-01-13,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1305,CUST_132,2026-01-13,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1306,CUST_123,2026-01-13,Crypto Trade,50.0,Completed,Europe
+TXN_1307,CUST_174,2026-01-13,Peer Transfer,300.0,Completed,Europe
+TXN_1308,CUST_171,2026-01-13,Wealth Management,150.0,Refunded,LATAM
+TXN_1309,CUST_135,2026-01-13,Crypto Trade,300.0,Failed,LATAM
+TXN_1310,CUST_137,2026-01-13,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1311,CUST_183,2026-01-13,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1312,CUST_198,2026-01-14,Micro Loan,5000.0,Completed,Europe
+TXN_1313,CUST_188,2026-01-14,Crypto Trade,50.0,Completed,LATAM
+TXN_1314,CUST_198,2026-01-14,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1315,CUST_124,2026-01-14,Crypto Trade,150.0,Completed,LATAM
+TXN_1316,CUST_192,2026-01-14,Crypto Trade,1200.0,Completed,LATAM
+TXN_1317,CUST_117,2026-01-14,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1318,CUST_181,2026-01-14,Peer Transfer,150.0,Completed,Europe
+TXN_1319,CUST_165,2026-01-14,Wealth Management,300.0,Refunded,Asia-Pacific
+TXN_1320,CUST_153,2026-01-14,Peer Transfer,1200.0,Refunded,Asia-Pacific
+TXN_1321,CUST_134,2026-01-14,Micro Loan,150.0,Completed,LATAM
+TXN_1322,CUST_179,2026-01-14,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1323,CUST_160,2026-01-14,Crypto Trade,300.0,Failed,Europe
+TXN_1324,CUST_140,2026-01-14,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1325,CUST_199,2026-01-14,Peer Transfer,300.0,Completed,Europe
+TXN_1326,CUST_132,2026-01-14,Micro Loan,300.0,Completed,Europe
+TXN_1327,CUST_167,2026-01-14,Micro Loan,150.0,Completed,LATAM
+TXN_1328,CUST_132,2026-01-14,Wealth Management,1200.0,Completed,North America
+TXN_1329,CUST_113,2026-01-14,Micro Loan,50.0,Failed,North America
+TXN_1330,CUST_120,2026-01-14,Crypto Trade,150.0,Refunded,LATAM
+TXN_1331,CUST_147,2026-01-14,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1332,CUST_119,2026-01-14,Crypto Trade,150.0,Completed,LATAM
+TXN_1333,CUST_107,2026-01-14,Crypto Trade,150.0,Refunded,Europe
+TXN_1334,CUST_106,2026-01-14,Crypto Trade,150.0,Completed,North America
+TXN_1335,CUST_166,2026-01-14,Peer Transfer,300.0,Failed,LATAM
+TXN_1336,CUST_116,2026-01-15,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1337,CUST_132,2026-01-15,Crypto Trade,150.0,Completed,LATAM
+TXN_1338,CUST_147,2026-01-15,Crypto Trade,50.0,Completed,North America
+TXN_1339,CUST_175,2026-01-15,Peer Transfer,150.0,Completed,LATAM
+TXN_1340,CUST_158,2026-01-15,Crypto Trade,50.0,Completed,LATAM
+TXN_1341,CUST_185,2026-01-15,Micro Loan,50.0,Completed,North America
+TXN_1342,CUST_121,2026-01-15,Micro Loan,300.0,Completed,Europe
+TXN_1343,CUST_129,2026-01-15,Wealth Management,300.0,Completed,Europe
+TXN_1344,CUST_137,2026-01-15,Crypto Trade,300.0,Completed,North America
+TXN_1345,CUST_150,2026-01-15,Peer Transfer,150.0,Failed,LATAM
+TXN_1346,CUST_153,2026-01-15,Micro Loan,150.0,Refunded,North America
+TXN_1347,CUST_107,2026-01-15,Peer Transfer,1200.0,Completed,Europe
+TXN_1348,CUST_126,2026-01-15,Peer Transfer,150.0,Failed,Asia-Pacific
+TXN_1349,CUST_126,2026-01-15,Micro Loan,150.0,Completed,LATAM
+TXN_1350,CUST_197,2026-01-15,Peer Transfer,50.0,Completed,Europe
+TXN_1351,CUST_120,2026-01-15,Micro Loan,150.0,Refunded,LATAM
+TXN_1352,CUST_129,2026-01-15,Peer Transfer,150.0,Completed,North America
+TXN_1353,CUST_196,2026-01-15,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1354,CUST_127,2026-01-15,Crypto Trade,150.0,Failed,North America
+TXN_1355,CUST_163,2026-01-15,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1356,CUST_196,2026-01-15,Micro Loan,300.0,Failed,LATAM
+TXN_1357,CUST_168,2026-01-15,Micro Loan,300.0,Failed,LATAM
+TXN_1358,CUST_160,2026-01-15,Wealth Management,1200.0,Completed,North America
+TXN_1359,CUST_147,2026-01-15,Micro Loan,300.0,Failed,Asia-Pacific
+TXN_1360,CUST_118,2026-01-16,Micro Loan,5000.0,Completed,Asia-Pacific
+TXN_1361,CUST_103,2026-01-16,Peer Transfer,50.0,Completed,LATAM
+TXN_1362,CUST_134,2026-01-16,Wealth Management,50.0,Completed,North America
+TXN_1363,CUST_163,2026-01-16,Crypto Trade,50.0,Refunded,Asia-Pacific
+TXN_1364,CUST_148,2026-01-16,Micro Loan,300.0,Completed,LATAM
+TXN_1365,CUST_116,2026-01-16,Wealth Management,1200.0,Completed,Europe
+TXN_1366,CUST_143,2026-01-16,Peer Transfer,50.0,Completed,North America
+TXN_1367,CUST_191,2026-01-16,Crypto Trade,,Completed,Europe
+TXN_1368,CUST_129,2026-01-16,Wealth Management,50.0,Completed,North America
+TXN_1369,CUST_192,2026-01-16,Crypto Trade,,Completed,LATAM
+TXN_1370,CUST_145,2026-01-16,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1371,CUST_105,2026-01-16,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1372,CUST_198,2026-01-16,Micro Loan,150.0,Failed,Asia-Pacific
+TXN_1373,CUST_136,2026-01-16,Micro Loan,50.0,Completed,North America
+TXN_1374,CUST_123,2026-01-16,Peer Transfer,50.0,Completed,LATAM
+TXN_1375,CUST_192,2026-01-16,Peer Transfer,150.0,Refunded,Europe
+TXN_1376,CUST_145,2026-01-16,Wealth Management,1200.0,Completed,LATAM
+TXN_1377,CUST_152,2026-01-16,Peer Transfer,150.0,Refunded,Europe
+TXN_1378,CUST_194,2026-01-16,Crypto Trade,150.0,Completed,North America
+TXN_1379,CUST_198,2026-01-16,Crypto Trade,300.0,Failed,North America
+TXN_1380,CUST_159,2026-01-16,Micro Loan,300.0,Completed,Europe
+TXN_1381,CUST_196,2026-01-16,Crypto Trade,50.0,Completed,Europe
+TXN_1382,CUST_162,2026-01-16,Wealth Management,150.0,Completed,Europe
+TXN_1383,CUST_184,2026-01-16,Crypto Trade,50.0,Failed,LATAM
+TXN_1384,CUST_131,2026-01-17,Crypto Trade,50.0,Completed,Europe
+TXN_1385,CUST_186,2026-01-17,Wealth Management,300.0,Completed,North America
+TXN_1386,CUST_132,2026-01-17,Peer Transfer,50.0,Completed,North America
+TXN_1387,CUST_166,2026-01-17,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1388,CUST_117,2026-01-17,Wealth Management,300.0,Completed,Europe
+TXN_1389,CUST_124,2026-01-17,Micro Loan,50.0,Completed,LATAM
+TXN_1390,CUST_194,2026-01-17,Crypto Trade,150.0,Failed,LATAM
+TXN_1391,CUST_153,2026-01-17,Wealth Management,50.0,Completed,LATAM
+TXN_1392,CUST_157,2026-01-17,Crypto Trade,5000.0,Completed,Asia-Pacific
+TXN_1393,CUST_166,2026-01-17,Micro Loan,150.0,Completed,North America
+TXN_1394,CUST_145,2026-01-17,Crypto Trade,1200.0,Completed,LATAM
+TXN_1395,CUST_123,2026-01-17,Wealth Management,150.0,Completed,North America
+TXN_1396,CUST_131,2026-01-17,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1397,CUST_146,2026-01-17,Peer Transfer,300.0,Completed,Europe
+TXN_1398,CUST_185,2026-01-17,Micro Loan,5000.0,Completed,Europe
+TXN_1399,CUST_122,2026-01-17,Micro Loan,300.0,Completed,Europe
+TXN_1400,CUST_165,2026-01-17,Micro Loan,1200.0,Failed,LATAM
+TXN_1401,CUST_126,2026-01-17,Wealth Management,1200.0,Refunded,Europe
+TXN_1402,CUST_101,2026-01-17,Micro Loan,50.0,Completed,LATAM
+TXN_1403,CUST_189,2026-01-17,Peer Transfer,50.0,Refunded,Asia-Pacific
+TXN_1404,CUST_116,2026-01-17,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1405,CUST_132,2026-01-17,Peer Transfer,150.0,Completed,LATAM
+TXN_1406,CUST_108,2026-01-17,Crypto Trade,1200.0,Completed,North America
+TXN_1407,CUST_142,2026-01-17,Crypto Trade,,Completed,Europe
+TXN_1408,CUST_147,2026-01-18,Crypto Trade,150.0,Completed,Europe
+TXN_1409,CUST_138,2026-01-18,Crypto Trade,50.0,Completed,Europe
+TXN_1410,CUST_192,2026-01-18,Peer Transfer,300.0,Completed,LATAM
+TXN_1411,CUST_141,2026-01-18,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1412,CUST_125,2026-01-18,Wealth Management,1200.0,Completed,Europe
+TXN_1413,CUST_198,2026-01-18,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1414,CUST_149,2026-01-18,Peer Transfer,300.0,Completed,Europe
+TXN_1415,CUST_124,2026-01-18,Crypto Trade,50.0,Completed,Europe
+TXN_1416,CUST_123,2026-01-18,Peer Transfer,300.0,Failed,LATAM
+TXN_1417,CUST_112,2026-01-18,Micro Loan,150.0,Refunded,North America
+TXN_1418,CUST_159,2026-01-18,Micro Loan,150.0,Completed,LATAM
+TXN_1419,CUST_106,2026-01-18,Peer Transfer,50.0,Refunded,Europe
+TXN_1420,CUST_156,2026-01-18,Peer Transfer,300.0,Completed,Europe
+TXN_1421,CUST_135,2026-01-18,Peer Transfer,1200.0,Completed,North America
+TXN_1422,CUST_144,2026-01-18,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1423,CUST_119,2026-01-18,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1424,CUST_164,2026-01-18,Peer Transfer,50.0,Refunded,Europe
+TXN_1425,CUST_107,2026-01-18,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1426,CUST_115,2026-01-18,Peer Transfer,300.0,Completed,Europe
+TXN_1427,CUST_113,2026-01-18,Micro Loan,150.0,Completed,North America
+TXN_1428,CUST_175,2026-01-18,Micro Loan,50.0,Completed,North America
+TXN_1429,CUST_186,2026-01-18,Wealth Management,150.0,Failed,Europe
+TXN_1430,CUST_114,2026-01-18,Crypto Trade,150.0,Completed,North America
+TXN_1431,CUST_191,2026-01-18,Wealth Management,150.0,Completed,LATAM
+TXN_1432,CUST_197,2026-01-19,Crypto Trade,5000.0,Completed,LATAM
+TXN_1433,CUST_165,2026-01-19,Micro Loan,50.0,Completed,North America
+TXN_1434,CUST_131,2026-01-19,Micro Loan,300.0,Completed,Europe
+TXN_1435,CUST_186,2026-01-19,Micro Loan,150.0,Completed,Europe
+TXN_1436,CUST_162,2026-01-19,Wealth Management,150.0,Completed,North America
+TXN_1437,CUST_185,2026-01-19,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1438,CUST_150,2026-01-19,Peer Transfer,300.0,Failed,LATAM
+TXN_1439,CUST_124,2026-01-19,Micro Loan,5000.0,Failed,Asia-Pacific
+TXN_1440,CUST_157,2026-01-19,Peer Transfer,50.0,Completed,Europe
+TXN_1441,CUST_162,2026-01-19,Peer Transfer,50.0,Completed,Europe
+TXN_1442,CUST_161,2026-01-19,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1443,CUST_121,2026-01-19,Crypto Trade,150.0,Completed,North America
+TXN_1444,CUST_157,2026-01-19,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1445,CUST_157,2026-01-19,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1446,CUST_185,2026-01-19,Wealth Management,50.0,Completed,LATAM
+TXN_1447,CUST_148,2026-01-19,Wealth Management,1200.0,Completed,LATAM
+TXN_1448,CUST_151,2026-01-19,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1449,CUST_141,2026-01-19,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1450,CUST_169,2026-01-19,Crypto Trade,50.0,Completed,Europe
+TXN_1451,CUST_114,2026-01-19,Wealth Management,150.0,Completed,LATAM
+TXN_1452,CUST_153,2026-01-19,Crypto Trade,50.0,Completed,LATAM
+TXN_1453,CUST_159,2026-01-19,Crypto Trade,150.0,Completed,Europe
+TXN_1454,CUST_196,2026-01-19,Micro Loan,50.0,Completed,North America
+TXN_1455,CUST_107,2026-01-19,Micro Loan,1200.0,Completed,LATAM
+TXN_1456,CUST_152,2026-01-20,Wealth Management,50.0,Completed,LATAM
+TXN_1457,CUST_159,2026-01-20,Micro Loan,150.0,Completed,North America
+TXN_1458,CUST_104,2026-01-20,Micro Loan,1200.0,Failed,LATAM
+TXN_1459,CUST_167,2026-01-20,Micro Loan,300.0,Completed,LATAM
+TXN_1460,CUST_105,2026-01-20,Crypto Trade,150.0,Completed,North America
+TXN_1461,CUST_195,2026-01-20,Wealth Management,150.0,Completed,North America
+TXN_1462,CUST_193,2026-01-20,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1463,CUST_146,2026-01-20,Crypto Trade,300.0,Completed,Europe
+TXN_1464,CUST_198,2026-01-20,Micro Loan,5000.0,Completed,Europe
+TXN_1465,CUST_154,2026-01-20,Crypto Trade,300.0,Completed,North America
+TXN_1466,CUST_139,2026-01-20,Micro Loan,150.0,Failed,North America
+TXN_1467,CUST_151,2026-01-20,Micro Loan,300.0,Completed,LATAM
+TXN_1468,CUST_115,2026-01-20,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1469,CUST_112,2026-01-20,Wealth Management,50.0,Failed,Asia-Pacific
+TXN_1470,CUST_129,2026-01-20,Micro Loan,150.0,Completed,North America
+TXN_1471,CUST_118,2026-01-20,Wealth Management,5000.0,Refunded,LATAM
+TXN_1472,CUST_116,2026-01-20,Peer Transfer,50.0,Completed,LATAM
+TXN_1473,CUST_162,2026-01-20,Micro Loan,300.0,Refunded,Europe
+TXN_1474,CUST_118,2026-01-20,Wealth Management,50.0,Completed,Europe
+TXN_1475,CUST_191,2026-01-20,Wealth Management,150.0,Completed,LATAM
+TXN_1476,CUST_157,2026-01-20,Peer Transfer,50.0,Completed,Europe
+TXN_1477,CUST_154,2026-01-20,Wealth Management,150.0,Completed,North America
+TXN_1478,CUST_189,2026-01-20,Wealth Management,300.0,Completed,LATAM
+TXN_1479,CUST_189,2026-01-20,Peer Transfer,150.0,Completed,Europe
+TXN_1480,CUST_161,2026-01-21,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1481,CUST_122,2026-01-21,Wealth Management,300.0,Completed,LATAM
+TXN_1482,CUST_108,2026-01-21,Wealth Management,,Completed,LATAM
+TXN_1483,CUST_111,2026-01-21,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1484,CUST_100,2026-01-21,Crypto Trade,150.0,Refunded,North America
+TXN_1485,CUST_157,2026-01-21,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1486,CUST_100,2026-01-21,Crypto Trade,5000.0,Refunded,LATAM
+TXN_1487,CUST_133,2026-01-21,Peer Transfer,,Completed,North America
+TXN_1488,CUST_195,2026-01-21,Micro Loan,150.0,Completed,Europe
+TXN_1489,CUST_147,2026-01-21,Micro Loan,1200.0,Completed,Europe
+TXN_1490,CUST_188,2026-01-21,Wealth Management,150.0,Completed,Europe
+TXN_1491,CUST_100,2026-01-21,Peer Transfer,300.0,Completed,LATAM
+TXN_1492,CUST_115,2026-01-21,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1493,CUST_160,2026-01-21,Peer Transfer,300.0,Completed,North America
+TXN_1494,CUST_163,2026-01-21,Micro Loan,50.0,Refunded,Europe
+TXN_1495,CUST_162,2026-01-21,Crypto Trade,1200.0,Completed,North America
+TXN_1496,CUST_168,2026-01-21,Micro Loan,300.0,Completed,LATAM
+TXN_1497,CUST_121,2026-01-21,Crypto Trade,300.0,Completed,Europe
+TXN_1498,CUST_192,2026-01-21,Micro Loan,50.0,Completed,LATAM
+TXN_1499,CUST_166,2026-01-21,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1500,CUST_175,2026-01-21,Crypto Trade,50.0,Completed,LATAM
+TXN_1501,CUST_125,2026-01-21,Micro Loan,150.0,Completed,LATAM
+TXN_1502,CUST_115,2026-01-21,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1503,CUST_150,2026-01-21,Crypto Trade,,Completed,North America
+TXN_1504,CUST_185,2026-01-22,Wealth Management,150.0,Failed,Asia-Pacific
+TXN_1505,CUST_156,2026-01-22,Peer Transfer,150.0,Failed,Asia-Pacific
+TXN_1506,CUST_128,2026-01-22,Peer Transfer,150.0,Completed,LATAM
+TXN_1507,CUST_177,2026-01-22,Crypto Trade,150.0,Completed,North America
+TXN_1508,CUST_191,2026-01-22,Micro Loan,300.0,Completed,Europe
+TXN_1509,CUST_168,2026-01-22,Crypto Trade,150.0,Failed,Asia-Pacific
+TXN_1510,CUST_146,2026-01-22,Wealth Management,,Completed,North America
+TXN_1511,CUST_193,2026-01-22,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1512,CUST_161,2026-01-22,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1513,CUST_168,2026-01-22,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1514,CUST_175,2026-01-22,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1515,CUST_115,2026-01-22,Micro Loan,,Completed,LATAM
+TXN_1516,CUST_189,2026-01-22,Micro Loan,50.0,Completed,North America
+TXN_1517,CUST_189,2026-01-22,Micro Loan,1200.0,Completed,North America
+TXN_1518,CUST_147,2026-01-22,Wealth Management,150.0,Completed,North America
+TXN_1519,CUST_184,2026-01-22,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1520,CUST_138,2026-01-22,Crypto Trade,1200.0,Completed,LATAM
+TXN_1521,CUST_199,2026-01-22,Crypto Trade,1200.0,Completed,Asia-Pacific
+TXN_1522,CUST_132,2026-01-22,Peer Transfer,300.0,Failed,Asia-Pacific
+TXN_1523,CUST_193,2026-01-22,Wealth Management,150.0,Completed,North America
+TXN_1524,CUST_122,2026-01-22,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1525,CUST_109,2026-01-22,Crypto Trade,150.0,Completed,Europe
+TXN_1526,CUST_168,2026-01-22,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1527,CUST_199,2026-01-22,Crypto Trade,300.0,Completed,Europe
+TXN_1528,CUST_133,2026-01-23,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1529,CUST_151,2026-01-23,Micro Loan,5000.0,Failed,LATAM
+TXN_1530,CUST_194,2026-01-23,Wealth Management,300.0,Completed,LATAM
+TXN_1531,CUST_109,2026-01-23,Peer Transfer,1200.0,Completed,North America
+TXN_1532,CUST_118,2026-01-23,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1533,CUST_157,2026-01-23,Wealth Management,1200.0,Completed,Europe
+TXN_1534,CUST_195,2026-01-23,Wealth Management,,Completed,Europe
+TXN_1535,CUST_100,2026-01-23,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1536,CUST_168,2026-01-23,Peer Transfer,300.0,Completed,Europe
+TXN_1537,CUST_103,2026-01-23,Peer Transfer,300.0,Completed,LATAM
+TXN_1538,CUST_115,2026-01-23,Wealth Management,50.0,Completed,Europe
+TXN_1539,CUST_123,2026-01-23,Micro Loan,150.0,Completed,North America
+TXN_1540,CUST_179,2026-01-23,Peer Transfer,150.0,Completed,LATAM
+TXN_1541,CUST_101,2026-01-23,Micro Loan,50.0,Completed,LATAM
+TXN_1542,CUST_191,2026-01-23,Wealth Management,150.0,Refunded,LATAM
+TXN_1543,CUST_131,2026-01-23,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1544,CUST_190,2026-01-23,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1545,CUST_183,2026-01-23,Peer Transfer,50.0,Completed,LATAM
+TXN_1546,CUST_123,2026-01-23,Micro Loan,5000.0,Completed,Asia-Pacific
+TXN_1547,CUST_111,2026-01-23,Crypto Trade,150.0,Completed,Europe
+TXN_1548,CUST_149,2026-01-23,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1549,CUST_134,2026-01-23,Crypto Trade,150.0,Refunded,Asia-Pacific
+TXN_1550,CUST_132,2026-01-23,Wealth Management,150.0,Completed,LATAM
+TXN_1551,CUST_132,2026-01-23,Peer Transfer,150.0,Completed,North America
+TXN_1552,CUST_160,2026-01-24,Crypto Trade,150.0,Completed,North America
+TXN_1553,CUST_150,2026-01-24,Crypto Trade,50.0,Failed,North America
+TXN_1554,CUST_142,2026-01-24,Micro Loan,300.0,Completed,Europe
+TXN_1555,CUST_111,2026-01-24,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1556,CUST_166,2026-01-24,Peer Transfer,300.0,Completed,North America
+TXN_1557,CUST_164,2026-01-24,Peer Transfer,300.0,Completed,LATAM
+TXN_1558,CUST_132,2026-01-24,Micro Loan,50.0,Completed,North America
+TXN_1559,CUST_139,2026-01-24,Peer Transfer,50.0,Completed,North America
+TXN_1560,CUST_173,2026-01-24,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1561,CUST_142,2026-01-24,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1562,CUST_143,2026-01-24,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1563,CUST_128,2026-01-24,Crypto Trade,5000.0,Completed,Europe
+TXN_1564,CUST_112,2026-01-24,Crypto Trade,50.0,Completed,Europe
+TXN_1565,CUST_111,2026-01-24,Peer Transfer,300.0,Refunded,North America
+TXN_1566,CUST_194,2026-01-24,Micro Loan,5000.0,Failed,Asia-Pacific
+TXN_1567,CUST_145,2026-01-24,Crypto Trade,50.0,Completed,North America
+TXN_1568,CUST_101,2026-01-24,Micro Loan,50.0,Failed,LATAM
+TXN_1569,CUST_134,2026-01-24,Peer Transfer,50.0,Completed,LATAM
+TXN_1570,CUST_186,2026-01-24,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1571,CUST_180,2026-01-24,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1572,CUST_189,2026-01-24,Crypto Trade,300.0,Completed,LATAM
+TXN_1573,CUST_107,2026-01-24,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1574,CUST_192,2026-01-24,Wealth Management,150.0,Completed,Europe
+TXN_1575,CUST_125,2026-01-24,Crypto Trade,5000.0,Completed,Europe
+TXN_1576,CUST_173,2026-01-25,Peer Transfer,1200.0,Completed,Asia-Pacific
+TXN_1577,CUST_189,2026-01-25,Peer Transfer,300.0,Completed,LATAM
+TXN_1578,CUST_133,2026-01-25,Crypto Trade,150.0,Completed,North America
+TXN_1579,CUST_106,2026-01-25,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1580,CUST_167,2026-01-25,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1581,CUST_157,2026-01-25,Peer Transfer,150.0,Refunded,North America
+TXN_1582,CUST_174,2026-01-25,Peer Transfer,50.0,Refunded,Asia-Pacific
+TXN_1583,CUST_128,2026-01-25,Wealth Management,1200.0,Completed,North America
+TXN_1584,CUST_135,2026-01-25,Micro Loan,150.0,Refunded,LATAM
+TXN_1585,CUST_188,2026-01-25,Crypto Trade,50.0,Completed,Europe
+TXN_1586,CUST_120,2026-01-25,Peer Transfer,150.0,Refunded,LATAM
+TXN_1587,CUST_135,2026-01-25,Peer Transfer,150.0,Completed,Europe
+TXN_1588,CUST_109,2026-01-25,Crypto Trade,1200.0,Completed,North America
+TXN_1589,CUST_172,2026-01-25,Micro Loan,300.0,Completed,Europe
+TXN_1590,CUST_123,2026-01-25,Crypto Trade,300.0,Completed,LATAM
+TXN_1591,CUST_163,2026-01-25,Micro Loan,50.0,Completed,Europe
+TXN_1592,CUST_198,2026-01-25,Peer Transfer,150.0,Completed,North America
+TXN_1593,CUST_148,2026-01-25,Micro Loan,150.0,Completed,Europe
+TXN_1594,CUST_198,2026-01-25,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1595,CUST_135,2026-01-25,Peer Transfer,50.0,Completed,LATAM
+TXN_1596,CUST_181,2026-01-25,Wealth Management,300.0,Failed,Asia-Pacific
+TXN_1597,CUST_195,2026-01-25,Crypto Trade,50.0,Completed,North America
+TXN_1598,CUST_123,2026-01-25,Crypto Trade,150.0,Completed,Europe
+TXN_1599,CUST_122,2026-01-25,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1600,CUST_161,2026-01-26,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1601,CUST_195,2026-01-26,Peer Transfer,50.0,Completed,Europe
+TXN_1602,CUST_136,2026-01-26,Crypto Trade,5000.0,Refunded,Europe
+TXN_1603,CUST_111,2026-01-26,Crypto Trade,1200.0,Completed,LATAM
+TXN_1604,CUST_154,2026-01-26,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1605,CUST_112,2026-01-26,Crypto Trade,150.0,Failed,Asia-Pacific
+TXN_1606,CUST_122,2026-01-26,Wealth Management,50.0,Completed,North America
+TXN_1607,CUST_188,2026-01-26,Peer Transfer,150.0,Completed,LATAM
+TXN_1608,CUST_198,2026-01-26,Peer Transfer,150.0,Completed,North America
+TXN_1609,CUST_129,2026-01-26,Peer Transfer,1200.0,Completed,Asia-Pacific
+TXN_1610,CUST_116,2026-01-26,Wealth Management,50.0,Completed,North America
+TXN_1611,CUST_161,2026-01-26,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1612,CUST_183,2026-01-26,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1613,CUST_188,2026-01-26,Peer Transfer,150.0,Refunded,North America
+TXN_1614,CUST_185,2026-01-26,Micro Loan,300.0,Completed,North America
+TXN_1615,CUST_112,2026-01-26,Crypto Trade,150.0,Completed,Europe
+TXN_1616,CUST_158,2026-01-26,Micro Loan,150.0,Completed,Europe
+TXN_1617,CUST_118,2026-01-26,Crypto Trade,150.0,Completed,Europe
+TXN_1618,CUST_148,2026-01-26,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1619,CUST_199,2026-01-26,Micro Loan,300.0,Completed,North America
+TXN_1620,CUST_111,2026-01-26,Peer Transfer,1200.0,Failed,LATAM
+TXN_1621,CUST_160,2026-01-26,Crypto Trade,5000.0,Completed,Asia-Pacific
+TXN_1622,CUST_118,2026-01-26,Crypto Trade,300.0,Completed,LATAM
+TXN_1623,CUST_175,2026-01-26,Micro Loan,150.0,Completed,North America
+TXN_1624,CUST_108,2026-01-27,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1625,CUST_170,2026-01-27,Micro Loan,150.0,Completed,LATAM
+TXN_1626,CUST_127,2026-01-27,Wealth Management,50.0,Completed,LATAM
+TXN_1627,CUST_177,2026-01-27,Wealth Management,1200.0,Completed,Europe
+TXN_1628,CUST_194,2026-01-27,Crypto Trade,50.0,Completed,Europe
+TXN_1629,CUST_151,2026-01-27,Micro Loan,,Failed,Europe
+TXN_1630,CUST_182,2026-01-27,Micro Loan,150.0,Refunded,Asia-Pacific
+TXN_1631,CUST_115,2026-01-27,Wealth Management,300.0,Completed,North America
+TXN_1632,CUST_168,2026-01-27,Micro Loan,300.0,Failed,North America
+TXN_1633,CUST_198,2026-01-27,Peer Transfer,1200.0,Completed,Europe
+TXN_1634,CUST_111,2026-01-27,Peer Transfer,300.0,Refunded,Europe
+TXN_1635,CUST_124,2026-01-27,Micro Loan,300.0,Completed,Europe
+TXN_1636,CUST_151,2026-01-27,Micro Loan,50.0,Refunded,LATAM
+TXN_1637,CUST_184,2026-01-27,Wealth Management,150.0,Refunded,Europe
+TXN_1638,CUST_199,2026-01-27,Peer Transfer,50.0,Completed,LATAM
+TXN_1639,CUST_152,2026-01-27,Peer Transfer,300.0,Refunded,North America
+TXN_1640,CUST_122,2026-01-27,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1641,CUST_115,2026-01-27,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1642,CUST_156,2026-01-27,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1643,CUST_138,2026-01-27,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1644,CUST_152,2026-01-27,Wealth Management,300.0,Completed,LATAM
+TXN_1645,CUST_141,2026-01-27,Micro Loan,50.0,Completed,LATAM
+TXN_1646,CUST_157,2026-01-27,Wealth Management,50.0,Refunded,Europe
+TXN_1647,CUST_138,2026-01-27,Micro Loan,50.0,Completed,LATAM
+TXN_1648,CUST_113,2026-01-28,Micro Loan,5000.0,Completed,Europe
+TXN_1649,CUST_194,2026-01-28,Wealth Management,300.0,Refunded,Europe
+TXN_1650,CUST_104,2026-01-28,Micro Loan,150.0,Refunded,Asia-Pacific
+TXN_1651,CUST_134,2026-01-28,Crypto Trade,50.0,Refunded,LATAM
+TXN_1652,CUST_186,2026-01-28,Peer Transfer,150.0,Completed,LATAM
+TXN_1653,CUST_192,2026-01-28,Micro Loan,300.0,Refunded,Europe
+TXN_1654,CUST_174,2026-01-28,Crypto Trade,300.0,Completed,Europe
+TXN_1655,CUST_117,2026-01-28,Micro Loan,50.0,Completed,North America
+TXN_1656,CUST_175,2026-01-28,Peer Transfer,50.0,Completed,North America
+TXN_1657,CUST_108,2026-01-28,Crypto Trade,50.0,Completed,Europe
+TXN_1658,CUST_173,2026-01-28,Peer Transfer,300.0,Completed,North America
+TXN_1659,CUST_157,2026-01-28,Peer Transfer,300.0,Completed,North America
+TXN_1660,CUST_116,2026-01-28,Crypto Trade,50.0,Completed,Europe
+TXN_1661,CUST_106,2026-01-28,Crypto Trade,50.0,Completed,Europe
+TXN_1662,CUST_145,2026-01-28,Crypto Trade,50.0,Completed,LATAM
+TXN_1663,CUST_112,2026-01-28,Wealth Management,5000.0,Completed,Europe
+TXN_1664,CUST_139,2026-01-28,Crypto Trade,50.0,Completed,Europe
+TXN_1665,CUST_141,2026-01-28,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1666,CUST_108,2026-01-28,Crypto Trade,300.0,Completed,LATAM
+TXN_1667,CUST_149,2026-01-28,Crypto Trade,150.0,Completed,LATAM
+TXN_1668,CUST_126,2026-01-28,Micro Loan,50.0,Refunded,LATAM
+TXN_1669,CUST_165,2026-01-28,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1670,CUST_104,2026-01-28,Peer Transfer,300.0,Completed,Europe
+TXN_1671,CUST_128,2026-01-28,Crypto Trade,300.0,Completed,LATAM
+TXN_1672,CUST_136,2026-01-29,Micro Loan,300.0,Completed,LATAM
+TXN_1673,CUST_137,2026-01-29,Micro Loan,150.0,Failed,North America
+TXN_1674,CUST_182,2026-01-29,Micro Loan,50.0,Completed,LATAM
+TXN_1675,CUST_107,2026-01-29,Peer Transfer,5000.0,Completed,Europe
+TXN_1676,CUST_164,2026-01-29,Crypto Trade,300.0,Completed,Europe
+TXN_1677,CUST_185,2026-01-29,Wealth Management,50.0,Completed,North America
+TXN_1678,CUST_116,2026-01-29,Wealth Management,5000.0,Completed,LATAM
+TXN_1679,CUST_170,2026-01-29,Micro Loan,300.0,Completed,LATAM
+TXN_1680,CUST_188,2026-01-29,Peer Transfer,150.0,Completed,LATAM
+TXN_1681,CUST_144,2026-01-29,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1682,CUST_103,2026-01-29,Peer Transfer,1200.0,Completed,LATAM
+TXN_1683,CUST_135,2026-01-29,Wealth Management,300.0,Refunded,Europe
+TXN_1684,CUST_169,2026-01-29,Micro Loan,50.0,Refunded,Europe
+TXN_1685,CUST_130,2026-01-29,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1686,CUST_118,2026-01-29,Wealth Management,,Completed,Asia-Pacific
+TXN_1687,CUST_160,2026-01-29,Micro Loan,50.0,Completed,LATAM
+TXN_1688,CUST_153,2026-01-29,Micro Loan,150.0,Completed,North America
+TXN_1689,CUST_138,2026-01-29,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1690,CUST_190,2026-01-29,Crypto Trade,150.0,Refunded,Asia-Pacific
+TXN_1691,CUST_173,2026-01-29,Crypto Trade,300.0,Refunded,LATAM
+TXN_1692,CUST_189,2026-01-29,Peer Transfer,,Completed,LATAM
+TXN_1693,CUST_118,2026-01-29,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1694,CUST_138,2026-01-29,Micro Loan,50.0,Completed,North America
+TXN_1695,CUST_166,2026-01-29,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1696,CUST_144,2026-01-30,Micro Loan,1200.0,Completed,LATAM
+TXN_1697,CUST_112,2026-01-30,Wealth Management,300.0,Completed,LATAM
+TXN_1698,CUST_191,2026-01-30,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1699,CUST_157,2026-01-30,Wealth Management,1200.0,Completed,North America
+TXN_1700,CUST_119,2026-01-30,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1701,CUST_191,2026-01-30,Micro Loan,1200.0,Refunded,Asia-Pacific
+TXN_1702,CUST_171,2026-01-30,Wealth Management,,Completed,LATAM
+TXN_1703,CUST_160,2026-01-30,Micro Loan,50.0,Completed,North America
+TXN_1704,CUST_138,2026-01-30,Crypto Trade,300.0,Completed,Europe
+TXN_1705,CUST_100,2026-01-30,Crypto Trade,150.0,Completed,North America
+TXN_1706,CUST_102,2026-01-30,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1707,CUST_176,2026-01-30,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1708,CUST_191,2026-01-30,Peer Transfer,300.0,Failed,Asia-Pacific
+TXN_1709,CUST_161,2026-01-30,Wealth Management,300.0,Completed,North America
+TXN_1710,CUST_162,2026-01-30,Peer Transfer,50.0,Refunded,LATAM
+TXN_1711,CUST_124,2026-01-30,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1712,CUST_155,2026-01-30,Crypto Trade,5000.0,Completed,Asia-Pacific
+TXN_1713,CUST_132,2026-01-30,Peer Transfer,,Completed,North America
+TXN_1714,CUST_137,2026-01-30,Crypto Trade,50.0,Completed,Europe
+TXN_1715,CUST_105,2026-01-30,Wealth Management,50.0,Completed,Europe
+TXN_1716,CUST_157,2026-01-30,Micro Loan,50.0,Completed,LATAM
+TXN_1717,CUST_143,2026-01-30,Micro Loan,300.0,Completed,LATAM
+TXN_1718,CUST_144,2026-01-30,Peer Transfer,1200.0,Failed,Asia-Pacific
+TXN_1719,CUST_131,2026-01-30,Crypto Trade,50.0,Refunded,North America
+TXN_1720,CUST_144,2026-01-31,Crypto Trade,150.0,Failed,Asia-Pacific
+TXN_1721,CUST_160,2026-01-31,Peer Transfer,1200.0,Completed,LATAM
+TXN_1722,CUST_146,2026-01-31,Micro Loan,300.0,Completed,North America
+TXN_1723,CUST_120,2026-01-31,Wealth Management,150.0,Completed,North America
+TXN_1724,CUST_179,2026-01-31,Peer Transfer,150.0,Completed,LATAM
+TXN_1725,CUST_184,2026-01-31,Wealth Management,150.0,Completed,Europe
+TXN_1726,CUST_174,2026-01-31,Micro Loan,50.0,Completed,Europe
+TXN_1727,CUST_135,2026-01-31,Crypto Trade,150.0,Completed,North America
+TXN_1728,CUST_198,2026-01-31,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1729,CUST_118,2026-01-31,Peer Transfer,1200.0,Failed,Europe
+TXN_1730,CUST_119,2026-01-31,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1731,CUST_156,2026-01-31,Peer Transfer,300.0,Completed,Europe
+TXN_1732,CUST_117,2026-01-31,Peer Transfer,50.0,Completed,Europe
+TXN_1733,CUST_146,2026-01-31,Micro Loan,150.0,Refunded,Asia-Pacific
+TXN_1734,CUST_148,2026-01-31,Peer Transfer,50.0,Completed,LATAM
+TXN_1735,CUST_113,2026-01-31,Micro Loan,50.0,Completed,Europe
+TXN_1736,CUST_114,2026-01-31,Crypto Trade,300.0,Failed,Europe
+TXN_1737,CUST_130,2026-01-31,Micro Loan,5000.0,Failed,Asia-Pacific
+TXN_1738,CUST_100,2026-01-31,Crypto Trade,50.0,Completed,LATAM
+TXN_1739,CUST_153,2026-01-31,Micro Loan,150.0,Completed,Europe
+TXN_1740,CUST_102,2026-01-31,Wealth Management,1200.0,Completed,Europe
+TXN_1741,CUST_115,2026-01-31,Wealth Management,50.0,Completed,LATAM
+TXN_1742,CUST_186,2026-01-31,Peer Transfer,150.0,Completed,Europe
+TXN_1743,CUST_156,2026-01-31,Micro Loan,300.0,Failed,LATAM
+TXN_1744,CUST_174,2026-02-01,Micro Loan,300.0,Completed,LATAM
+TXN_1745,CUST_111,2026-02-01,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1746,CUST_173,2026-02-01,Peer Transfer,150.0,Completed,North America
+TXN_1747,CUST_195,2026-02-01,Micro Loan,300.0,Completed,LATAM
+TXN_1748,CUST_115,2026-02-01,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1749,CUST_171,2026-02-01,Wealth Management,50.0,Completed,North America
+TXN_1750,CUST_175,2026-02-01,Micro Loan,300.0,Completed,Europe
+TXN_1751,CUST_123,2026-02-01,Micro Loan,50.0,Completed,North America
+TXN_1752,CUST_127,2026-02-01,Peer Transfer,300.0,Completed,LATAM
+TXN_1753,CUST_107,2026-02-01,Micro Loan,50.0,Completed,LATAM
+TXN_1754,CUST_191,2026-02-01,Peer Transfer,5000.0,Refunded,LATAM
+TXN_1755,CUST_135,2026-02-01,Micro Loan,150.0,Completed,LATAM
+TXN_1756,CUST_189,2026-02-01,Crypto Trade,150.0,Completed,LATAM
+TXN_1757,CUST_107,2026-02-01,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1758,CUST_157,2026-02-01,Micro Loan,150.0,Completed,LATAM
+TXN_1759,CUST_159,2026-02-01,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1760,CUST_149,2026-02-01,Micro Loan,5000.0,Completed,Europe
+TXN_1761,CUST_127,2026-02-01,Wealth Management,150.0,Refunded,LATAM
+TXN_1762,CUST_191,2026-02-01,Wealth Management,150.0,Completed,LATAM
+TXN_1763,CUST_140,2026-02-01,Crypto Trade,300.0,Completed,North America
+TXN_1764,CUST_199,2026-02-01,Peer Transfer,1200.0,Completed,Europe
+TXN_1765,CUST_163,2026-02-01,Micro Loan,150.0,Failed,LATAM
+TXN_1766,CUST_126,2026-02-01,Crypto Trade,150.0,Completed,LATAM
+TXN_1767,CUST_162,2026-02-01,Micro Loan,150.0,Completed,Europe
+TXN_1768,CUST_116,2026-02-02,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1769,CUST_172,2026-02-02,Peer Transfer,50.0,Completed,LATAM
+TXN_1770,CUST_132,2026-02-02,Micro Loan,300.0,Failed,North America
+TXN_1771,CUST_183,2026-02-02,Micro Loan,150.0,Completed,LATAM
+TXN_1772,CUST_176,2026-02-02,Wealth Management,300.0,Completed,North America
+TXN_1773,CUST_191,2026-02-02,Micro Loan,50.0,Refunded,North America
+TXN_1774,CUST_128,2026-02-02,Micro Loan,150.0,Failed,LATAM
+TXN_1775,CUST_112,2026-02-02,Wealth Management,150.0,Refunded,LATAM
+TXN_1776,CUST_145,2026-02-02,Crypto Trade,300.0,Completed,North America
+TXN_1777,CUST_134,2026-02-02,Wealth Management,50.0,Completed,Europe
+TXN_1778,CUST_105,2026-02-02,Crypto Trade,150.0,Completed,Europe
+TXN_1779,CUST_181,2026-02-02,Peer Transfer,150.0,Completed,LATAM
+TXN_1780,CUST_168,2026-02-02,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1781,CUST_146,2026-02-02,Crypto Trade,300.0,Completed,Europe
+TXN_1782,CUST_124,2026-02-02,Peer Transfer,300.0,Completed,LATAM
+TXN_1783,CUST_165,2026-02-02,Crypto Trade,1200.0,Completed,Europe
+TXN_1784,CUST_109,2026-02-02,Wealth Management,50.0,Completed,Asia-Pacific
+TXN_1785,CUST_155,2026-02-02,Crypto Trade,1200.0,Completed,LATAM
+TXN_1786,CUST_129,2026-02-02,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1787,CUST_104,2026-02-02,Wealth Management,50.0,Completed,LATAM
+TXN_1788,CUST_132,2026-02-02,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1789,CUST_164,2026-02-02,Peer Transfer,150.0,Completed,Europe
+TXN_1790,CUST_117,2026-02-02,Micro Loan,300.0,Completed,Europe
+TXN_1791,CUST_195,2026-02-02,Micro Loan,300.0,Completed,Asia-Pacific
+TXN_1792,CUST_148,2026-02-03,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1793,CUST_110,2026-02-03,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1794,CUST_184,2026-02-03,Peer Transfer,150.0,Completed,LATAM
+TXN_1795,CUST_125,2026-02-03,Micro Loan,50.0,Completed,Europe
+TXN_1796,CUST_162,2026-02-03,Micro Loan,150.0,Completed,LATAM
+TXN_1797,CUST_188,2026-02-03,Crypto Trade,150.0,Refunded,Europe
+TXN_1798,CUST_185,2026-02-03,Crypto Trade,50.0,Failed,North America
+TXN_1799,CUST_158,2026-02-03,Peer Transfer,50.0,Completed,LATAM
+TXN_1800,CUST_126,2026-02-03,Wealth Management,150.0,Completed,Europe
+TXN_1801,CUST_148,2026-02-03,Wealth Management,300.0,Completed,Europe
+TXN_1802,CUST_176,2026-02-03,Micro Loan,5000.0,Refunded,LATAM
+TXN_1803,CUST_132,2026-02-03,Micro Loan,,Completed,LATAM
+TXN_1804,CUST_197,2026-02-03,Micro Loan,300.0,Completed,Europe
+TXN_1805,CUST_198,2026-02-03,Peer Transfer,150.0,Failed,LATAM
+TXN_1806,CUST_100,2026-02-03,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1807,CUST_120,2026-02-03,Crypto Trade,300.0,Failed,LATAM
+TXN_1808,CUST_154,2026-02-03,Peer Transfer,50.0,Completed,LATAM
+TXN_1809,CUST_105,2026-02-03,Crypto Trade,150.0,Completed,LATAM
+TXN_1810,CUST_191,2026-02-03,Crypto Trade,1200.0,Completed,Europe
+TXN_1811,CUST_180,2026-02-03,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1812,CUST_168,2026-02-03,Crypto Trade,150.0,Failed,North America
+TXN_1813,CUST_194,2026-02-03,Wealth Management,150.0,Completed,North America
+TXN_1814,CUST_104,2026-02-03,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1815,CUST_102,2026-02-03,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1816,CUST_152,2026-02-04,Wealth Management,150.0,Refunded,Asia-Pacific
+TXN_1817,CUST_122,2026-02-04,Wealth Management,50.0,Completed,Europe
+TXN_1818,CUST_152,2026-02-04,Micro Loan,50.0,Completed,North America
+TXN_1819,CUST_136,2026-02-04,Crypto Trade,1200.0,Completed,Asia-Pacific
+TXN_1820,CUST_173,2026-02-04,Peer Transfer,50.0,Completed,Europe
+TXN_1821,CUST_173,2026-02-04,Peer Transfer,150.0,Completed,North America
+TXN_1822,CUST_182,2026-02-04,Crypto Trade,50.0,Completed,LATAM
+TXN_1823,CUST_116,2026-02-04,Micro Loan,,Completed,Europe
+TXN_1824,CUST_184,2026-02-04,Micro Loan,50.0,Failed,North America
+TXN_1825,CUST_177,2026-02-04,Wealth Management,150.0,Completed,Europe
+TXN_1826,CUST_172,2026-02-04,Crypto Trade,1200.0,Completed,North America
+TXN_1827,CUST_100,2026-02-04,Crypto Trade,1200.0,Refunded,North America
+TXN_1828,CUST_150,2026-02-04,Peer Transfer,50.0,Completed,LATAM
+TXN_1829,CUST_144,2026-02-04,Crypto Trade,1200.0,Completed,Europe
+TXN_1830,CUST_176,2026-02-04,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1831,CUST_103,2026-02-04,Crypto Trade,150.0,Failed,LATAM
+TXN_1832,CUST_161,2026-02-04,Peer Transfer,50.0,Completed,LATAM
+TXN_1833,CUST_164,2026-02-04,Wealth Management,50.0,Refunded,North America
+TXN_1834,CUST_131,2026-02-04,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1835,CUST_133,2026-02-04,Peer Transfer,150.0,Completed,Europe
+TXN_1836,CUST_191,2026-02-04,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1837,CUST_194,2026-02-04,Peer Transfer,300.0,Failed,Asia-Pacific
+TXN_1838,CUST_171,2026-02-04,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1839,CUST_138,2026-02-04,Crypto Trade,50.0,Failed,Asia-Pacific
+TXN_1840,CUST_125,2026-02-05,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1841,CUST_133,2026-02-05,Wealth Management,50.0,Completed,North America
+TXN_1842,CUST_153,2026-02-05,Crypto Trade,300.0,Completed,North America
+TXN_1843,CUST_102,2026-02-05,Crypto Trade,300.0,Failed,LATAM
+TXN_1844,CUST_149,2026-02-05,Peer Transfer,5000.0,Completed,North America
+TXN_1845,CUST_111,2026-02-05,Micro Loan,50.0,Completed,LATAM
+TXN_1846,CUST_164,2026-02-05,Crypto Trade,50.0,Completed,LATAM
+TXN_1847,CUST_153,2026-02-05,Micro Loan,50.0,Failed,Europe
+TXN_1848,CUST_104,2026-02-05,Crypto Trade,50.0,Completed,Asia-Pacific
+TXN_1849,CUST_193,2026-02-05,Crypto Trade,50.0,Completed,North America
+TXN_1850,CUST_193,2026-02-05,Wealth Management,,Completed,Europe
+TXN_1851,CUST_156,2026-02-05,Wealth Management,50.0,Completed,North America
+TXN_1852,CUST_116,2026-02-05,Wealth Management,50.0,Completed,LATAM
+TXN_1853,CUST_146,2026-02-05,Micro Loan,300.0,Failed,North America
+TXN_1854,CUST_122,2026-02-05,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1855,CUST_178,2026-02-05,Crypto Trade,300.0,Completed,LATAM
+TXN_1856,CUST_184,2026-02-05,Crypto Trade,50.0,Completed,LATAM
+TXN_1857,CUST_113,2026-02-05,Crypto Trade,150.0,Completed,Europe
+TXN_1858,CUST_165,2026-02-05,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1859,CUST_174,2026-02-05,Wealth Management,50.0,Completed,LATAM
+TXN_1860,CUST_150,2026-02-05,Peer Transfer,,Completed,Asia-Pacific
+TXN_1861,CUST_137,2026-02-05,Micro Loan,50.0,Completed,North America
+TXN_1862,CUST_163,2026-02-05,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1863,CUST_197,2026-02-05,Micro Loan,150.0,Completed,LATAM
+TXN_1864,CUST_137,2026-02-06,Peer Transfer,150.0,Completed,Europe
+TXN_1865,CUST_149,2026-02-06,Wealth Management,1200.0,Completed,LATAM
+TXN_1866,CUST_197,2026-02-06,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1867,CUST_181,2026-02-06,Peer Transfer,300.0,Completed,Asia-Pacific
+TXN_1868,CUST_129,2026-02-06,Crypto Trade,5000.0,Completed,LATAM
+TXN_1869,CUST_178,2026-02-06,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1870,CUST_190,2026-02-06,Crypto Trade,,Completed,North America
+TXN_1871,CUST_150,2026-02-06,Micro Loan,50.0,Completed,LATAM
+TXN_1872,CUST_162,2026-02-06,Wealth Management,150.0,Completed,Europe
+TXN_1873,CUST_197,2026-02-06,Wealth Management,50.0,Completed,LATAM
+TXN_1874,CUST_151,2026-02-06,Micro Loan,300.0,Refunded,North America
+TXN_1875,CUST_137,2026-02-06,Wealth Management,5000.0,Completed,North America
+TXN_1876,CUST_196,2026-02-06,Wealth Management,50.0,Completed,North America
+TXN_1877,CUST_187,2026-02-06,Crypto Trade,300.0,Completed,North America
+TXN_1878,CUST_178,2026-02-06,Micro Loan,50.0,Completed,North America
+TXN_1879,CUST_129,2026-02-06,Peer Transfer,150.0,Completed,Europe
+TXN_1880,CUST_150,2026-02-06,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1881,CUST_180,2026-02-06,Micro Loan,5000.0,Completed,North America
+TXN_1882,CUST_104,2026-02-06,Crypto Trade,300.0,Completed,North America
+TXN_1883,CUST_128,2026-02-06,Peer Transfer,150.0,Completed,LATAM
+TXN_1884,CUST_103,2026-02-06,Peer Transfer,50.0,Completed,Europe
+TXN_1885,CUST_109,2026-02-06,Micro Loan,50.0,Refunded,Europe
+TXN_1886,CUST_155,2026-02-06,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1887,CUST_116,2026-02-06,Crypto Trade,50.0,Completed,Europe
+TXN_1888,CUST_173,2026-02-07,Peer Transfer,1200.0,Completed,LATAM
+TXN_1889,CUST_116,2026-02-07,Crypto Trade,150.0,Refunded,LATAM
+TXN_1890,CUST_183,2026-02-07,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1891,CUST_187,2026-02-07,Peer Transfer,50.0,Completed,LATAM
+TXN_1892,CUST_168,2026-02-07,Micro Loan,1200.0,Completed,North America
+TXN_1893,CUST_133,2026-02-07,Wealth Management,300.0,Completed,North America
+TXN_1894,CUST_105,2026-02-07,Peer Transfer,50.0,Completed,LATAM
+TXN_1895,CUST_152,2026-02-07,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1896,CUST_165,2026-02-07,Crypto Trade,150.0,Completed,Europe
+TXN_1897,CUST_176,2026-02-07,Peer Transfer,50.0,Completed,Asia-Pacific
+TXN_1898,CUST_142,2026-02-07,Micro Loan,150.0,Completed,Europe
+TXN_1899,CUST_174,2026-02-07,Micro Loan,150.0,Completed,LATAM
+TXN_1900,CUST_122,2026-02-07,Crypto Trade,50.0,Completed,LATAM
+TXN_1901,CUST_154,2026-02-07,Crypto Trade,,Completed,North America
+TXN_1902,CUST_179,2026-02-07,Micro Loan,1200.0,Completed,Europe
+TXN_1903,CUST_194,2026-02-07,Wealth Management,300.0,Refunded,Asia-Pacific
+TXN_1904,CUST_174,2026-02-07,Peer Transfer,150.0,Completed,LATAM
+TXN_1905,CUST_115,2026-02-07,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1906,CUST_107,2026-02-07,Crypto Trade,300.0,Completed,North America
+TXN_1907,CUST_103,2026-02-07,Micro Loan,150.0,Refunded,Europe
+TXN_1908,CUST_103,2026-02-07,Peer Transfer,50.0,Completed,Europe
+TXN_1909,CUST_155,2026-02-07,Micro Loan,150.0,Completed,LATAM
+TXN_1910,CUST_124,2026-02-07,Peer Transfer,1200.0,Completed,Europe
+TXN_1911,CUST_166,2026-02-07,Peer Transfer,150.0,Completed,LATAM
+TXN_1912,CUST_195,2026-02-08,Peer Transfer,50.0,Completed,North America
+TXN_1913,CUST_166,2026-02-08,Crypto Trade,300.0,Completed,Europe
+TXN_1914,CUST_126,2026-02-08,Wealth Management,50.0,Completed,LATAM
+TXN_1915,CUST_192,2026-02-08,Micro Loan,50.0,Refunded,Asia-Pacific
+TXN_1916,CUST_131,2026-02-08,Wealth Management,50.0,Completed,LATAM
+TXN_1917,CUST_149,2026-02-08,Micro Loan,150.0,Completed,Europe
+TXN_1918,CUST_160,2026-02-08,Peer Transfer,300.0,Completed,North America
+TXN_1919,CUST_150,2026-02-08,Crypto Trade,150.0,Completed,Europe
+TXN_1920,CUST_118,2026-02-08,Wealth Management,50.0,Completed,Europe
+TXN_1921,CUST_120,2026-02-08,Crypto Trade,1200.0,Completed,LATAM
+TXN_1922,CUST_104,2026-02-08,Micro Loan,1200.0,Completed,Asia-Pacific
+TXN_1923,CUST_181,2026-02-08,Crypto Trade,1200.0,Failed,Europe
+TXN_1924,CUST_191,2026-02-08,Crypto Trade,50.0,Refunded,Asia-Pacific
+TXN_1925,CUST_141,2026-02-08,Wealth Management,150.0,Completed,LATAM
+TXN_1926,CUST_160,2026-02-08,Peer Transfer,5000.0,Completed,Asia-Pacific
+TXN_1927,CUST_121,2026-02-08,Crypto Trade,300.0,Refunded,LATAM
+TXN_1928,CUST_120,2026-02-08,Peer Transfer,50.0,Completed,North America
+TXN_1929,CUST_169,2026-02-08,Micro Loan,50.0,Failed,Asia-Pacific
+TXN_1930,CUST_100,2026-02-08,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1931,CUST_104,2026-02-08,Wealth Management,,Completed,North America
+TXN_1932,CUST_111,2026-02-08,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1933,CUST_189,2026-02-08,Micro Loan,150.0,Completed,North America
+TXN_1934,CUST_145,2026-02-08,Wealth Management,50.0,Completed,Europe
+TXN_1935,CUST_133,2026-02-08,Crypto Trade,300.0,Completed,LATAM
+TXN_1936,CUST_148,2026-02-09,Crypto Trade,1200.0,Completed,North America
+TXN_1937,CUST_177,2026-02-09,Micro Loan,150.0,Completed,Asia-Pacific
+TXN_1938,CUST_189,2026-02-09,Crypto Trade,300.0,Completed,North America
+TXN_1939,CUST_144,2026-02-09,Peer Transfer,5000.0,Refunded,Asia-Pacific
+TXN_1940,CUST_126,2026-02-09,Wealth Management,50.0,Completed,Europe
+TXN_1941,CUST_172,2026-02-09,Peer Transfer,150.0,Failed,North America
+TXN_1942,CUST_125,2026-02-09,Crypto Trade,50.0,Completed,Europe
+TXN_1943,CUST_146,2026-02-09,Micro Loan,300.0,Completed,LATAM
+TXN_1944,CUST_185,2026-02-09,Wealth Management,150.0,Refunded,Asia-Pacific
+TXN_1945,CUST_155,2026-02-09,Crypto Trade,300.0,Completed,Asia-Pacific
+TXN_1946,CUST_193,2026-02-09,Crypto Trade,300.0,Completed,Europe
+TXN_1947,CUST_162,2026-02-09,Micro Loan,150.0,Completed,LATAM
+TXN_1948,CUST_147,2026-02-09,Micro Loan,,Completed,North America
+TXN_1949,CUST_160,2026-02-09,Peer Transfer,150.0,Completed,North America
+TXN_1950,CUST_180,2026-02-09,Wealth Management,50.0,Refunded,Asia-Pacific
+TXN_1951,CUST_125,2026-02-09,Wealth Management,300.0,Completed,Europe
+TXN_1952,CUST_135,2026-02-09,Micro Loan,300.0,Completed,Europe
+TXN_1953,CUST_100,2026-02-09,Peer Transfer,150.0,Completed,North America
+TXN_1954,CUST_107,2026-02-09,Wealth Management,1200.0,Completed,LATAM
+TXN_1955,CUST_198,2026-02-09,Micro Loan,,Completed,LATAM
+TXN_1956,CUST_151,2026-02-09,Crypto Trade,50.0,Completed,North America
+TXN_1957,CUST_178,2026-02-09,Wealth Management,5000.0,Completed,North America
+TXN_1958,CUST_146,2026-02-09,Peer Transfer,50.0,Completed,Europe
+TXN_1959,CUST_155,2026-02-09,Peer Transfer,50.0,Completed,LATAM
+TXN_1960,CUST_185,2026-02-10,Peer Transfer,50.0,Completed,North America
+TXN_1961,CUST_113,2026-02-10,Crypto Trade,1200.0,Completed,North America
+TXN_1962,CUST_189,2026-02-10,Wealth Management,300.0,Completed,Asia-Pacific
+TXN_1963,CUST_127,2026-02-10,Wealth Management,50.0,Failed,North America
+TXN_1964,CUST_186,2026-02-10,Crypto Trade,150.0,Completed,North America
+TXN_1965,CUST_177,2026-02-10,Wealth Management,300.0,Completed,LATAM
+TXN_1966,CUST_187,2026-02-10,Crypto Trade,50.0,Completed,Europe
+TXN_1967,CUST_101,2026-02-10,Crypto Trade,1200.0,Completed,LATAM
+TXN_1968,CUST_125,2026-02-10,Crypto Trade,1200.0,Completed,Europe
+TXN_1969,CUST_113,2026-02-10,Peer Transfer,150.0,Completed,Asia-Pacific
+TXN_1970,CUST_158,2026-02-10,Wealth Management,5000.0,Completed,North America
+TXN_1971,CUST_155,2026-02-10,Crypto Trade,150.0,Completed,Asia-Pacific
+TXN_1972,CUST_106,2026-02-10,Wealth Management,5000.0,Completed,Europe
+TXN_1973,CUST_102,2026-02-10,Peer Transfer,300.0,Completed,LATAM
+TXN_1974,CUST_122,2026-02-10,Crypto Trade,300.0,Completed,LATAM
+TXN_1975,CUST_117,2026-02-10,Micro Loan,50.0,Completed,Asia-Pacific
+TXN_1976,CUST_137,2026-02-10,Peer Transfer,1200.0,Refunded,Europe
+TXN_1977,CUST_198,2026-02-10,Micro Loan,150.0,Failed,Asia-Pacific
+TXN_1978,CUST_114,2026-02-10,Wealth Management,50.0,Failed,Asia-Pacific
+TXN_1979,CUST_163,2026-02-10,Wealth Management,50.0,Failed,North America
+TXN_1980,CUST_188,2026-02-10,Peer Transfer,150.0,Refunded,Asia-Pacific
+TXN_1981,CUST_127,2026-02-10,Wealth Management,150.0,Completed,North America
+TXN_1982,CUST_173,2026-02-10,Micro Loan,300.0,Completed,North America
+TXN_1983,CUST_138,2026-02-10,Crypto Trade,1200.0,Completed,LATAM
+TXN_1984,CUST_156,2026-02-11,Crypto Trade,50.0,Completed,North America
+TXN_1985,CUST_116,2026-02-11,Crypto Trade,300.0,Completed,North America
+TXN_1986,CUST_185,2026-02-11,Peer Transfer,50.0,Completed,LATAM
+TXN_1987,CUST_189,2026-02-11,Wealth Management,1200.0,Completed,Asia-Pacific
+TXN_1988,CUST_143,2026-02-11,Micro Loan,1200.0,Completed,Europe
+TXN_1989,CUST_124,2026-02-11,Wealth Management,150.0,Refunded,Europe
+TXN_1990,CUST_116,2026-02-11,Wealth Management,300.0,Completed,Europe
+TXN_1991,CUST_112,2026-02-11,Wealth Management,150.0,Completed,Asia-Pacific
+TXN_1992,CUST_183,2026-02-11,Crypto Trade,150.0,Completed,North America
+TXN_1993,CUST_124,2026-02-11,Micro Loan,1200.0,Completed,Europe
+TXN_1994,CUST_167,2026-02-11,Micro Loan,150.0,Failed,Asia-Pacific
+TXN_1995,CUST_109,2026-02-11,Wealth Management,150.0,Completed,North America
+TXN_1996,CUST_166,2026-02-11,Crypto Trade,150.0,Completed,LATAM
+TXN_1997,CUST_117,2026-02-11,Crypto Trade,1200.0,Completed,Europe
+TXN_1998,CUST_199,2026-02-11,Micro Loan,150.0,Completed,North America
+TXN_1999,CUST_185,2026-02-11,Crypto Trade,50.0,Completed,Europe
