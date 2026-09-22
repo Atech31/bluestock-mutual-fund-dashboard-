@@ -5,21 +5,12 @@ db_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "bluestock_mf
 conn = sqlite3.connect(db_path)
 cursor = conn.cursor()
 
-# 1. Master Fund Overview View (combining performance and risk metrics)
+# 1. Master Fund Overview View
 cursor.execute("DROP VIEW IF EXISTS view_fund_overview;")
 cursor.execute("""
 CREATE VIEW view_fund_overview AS
-SELECT 
-    p.scheme_name,
-    p.fund_house,
-    p.category,
-    p.return_3yr_pct,
-    p.sharpe_ratio,
-    p.sortino_ratio,
-    r.daily_var_95_pct
-FROM fact_performance p
-LEFT JOIN dim_fund d ON p.scheme_name = d.scheme_name
-LEFT JOIN fact_risk_metrics r ON d.amfi_code = r.amfi_code;
+SELECT *
+FROM fact_performance;
 """)
 
 # 2. Monthly AUM Trend View
@@ -27,9 +18,9 @@ cursor.execute("DROP VIEW IF EXISTS view_aum_trends;")
 cursor.execute("""
 CREATE VIEW view_aum_trends AS
 SELECT 
-    fund_house,
-    month_year,
-    aum_in_crores
+    date,
+    fund_house AS amc_name,
+    aum_crore AS total_aum
 FROM fact_aum;
 """)
 
